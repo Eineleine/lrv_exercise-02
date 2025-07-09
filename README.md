@@ -1,3 +1,4 @@
+```json
 {
     "name": "svetlana/gudkova",
     "description": "Домашнее задание по Composer",
@@ -11,3 +12,4 @@
         "psr/log": "^3.0"
     }
 }
+```
